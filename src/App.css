@@ -1,0 +1,27 @@
+
+::-webkit-scrollbar {
+  pointer-events: none;
+}
+
+.svgApp {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+
+.navBox {
+  display: flex;
+  width: 200px;
+  background-color: lightgreen;
+  align-items: stretch;
+  overflow-y: auto;
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+}
+
+.ctt {
+  flex: 1;
+}
