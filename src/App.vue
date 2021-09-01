@@ -4,6 +4,12 @@
 
     <div class="svgItem">
       <hr />
+      <h4>Demo12ellipse</h4>
+      <Demo12ellipse />
+    </div>
+
+    <div class="svgItem">
+      <hr />
       <h4>Demo11path</h4>
       <Demo11path />
     </div>
@@ -82,6 +88,7 @@
   import Demo09rotate from './components/svgs/Demo09rotate.vue';
   import Demo10skew from './components/svgs/Demo10skew.vue';
   import Demo11path from './components/svgs/Demo11path.vue';
+  import Demo12ellipse from './components/svgs/Demo12ellipse.vue';
 
 
 
