@@ -4,6 +4,12 @@
 
     <div class="svgItem">
       <hr />
+      <h4>Demo11path</h4>
+      <Demo11path />
+    </div>
+
+    <div class="svgItem">
+      <hr />
       <h4>Demo10skew</h4>
       <Demo10skew />
     </div>
@@ -75,6 +81,7 @@
   import Demo08DescartesCoordinate from './components/svgs/Demo08DescartesCoordinate.vue';
   import Demo09rotate from './components/svgs/Demo09rotate.vue';
   import Demo10skew from './components/svgs/Demo10skew.vue';
+  import Demo11path from './components/svgs/Demo11path.vue';
 
 
 
