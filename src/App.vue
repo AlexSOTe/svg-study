@@ -4,6 +4,12 @@
 
     <div class="svgItem">
       <hr />
+      <h4>Demo16marker</h4>
+      <Demo16marker />
+    </div>
+
+    <div class="svgItem">
+      <hr />
       <h4>Demo15fillRule</h4>
       <Demo15fillRule />
     </div>
@@ -110,6 +116,7 @@
   import Demo13bezier from './components/svgs/Demo13bezier.vue';
   import Demo14practice from './components/svgs/Demo14practice.vue';
   import Demo15fillRule from './components/svgs/Demo15fillRule.vue';
+  import Demo16marker from './components/svgs/Demo16marker.vue';
 
 
 
