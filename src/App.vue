@@ -4,13 +4,13 @@
 
     <div class="svgItem">
       <hr />
-      <h4>Demo14pathTransform</h4>
-      <Demo14pathTransform />
+      <h4>Demo14practice</h4>
+      <Demo14practice />
     </div>
 
     <div class="svgItem">
       <hr />
-      <h4>Demo14pathTransform</h4>
+      <h4>Demo14practice</h4>
       <Demo13bezier />
     </div>
 
@@ -102,7 +102,7 @@
   import Demo11path from './components/svgs/Demo11path.vue';
   import Demo12ellipse from './components/svgs/Demo12ellipse.vue';
   import Demo13bezier from './components/svgs/Demo13bezier.vue';
-  import Demo14pathTransform from './components/svgs/Demo14pathTransform.vue';
+  import Demo14practice from './components/svgs/Demo14practice.vue';
 
 
 
