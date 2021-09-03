@@ -52,8 +52,15 @@
             Z
           "
           fill="white" />
+
+    <ellipse cx="300"
+             cy="300"
+             rx="100"
+             ry="50"
+             fill="transparent"
+             stroke-width="2"
+             stroke="green" />
   </svg>
-  完成！
 </template>
 <script setup lang="ts">
   import { reactive, ref } from "vue";

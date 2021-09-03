@@ -4,6 +4,18 @@
 
     <div class="svgItem">
       <hr />
+      <h4>Demo14pathTransform</h4>
+      <Demo14pathTransform />
+    </div>
+
+    <div class="svgItem">
+      <hr />
+      <h4>Demo14pathTransform</h4>
+      <Demo13bezier />
+    </div>
+
+    <div class="svgItem">
+      <hr />
       <h4>Demo12ellipse</h4>
       <Demo12ellipse />
     </div>
@@ -89,6 +101,8 @@
   import Demo10skew from './components/svgs/Demo10skew.vue';
   import Demo11path from './components/svgs/Demo11path.vue';
   import Demo12ellipse from './components/svgs/Demo12ellipse.vue';
+  import Demo13bezier from './components/svgs/Demo13bezier.vue';
+  import Demo14pathTransform from './components/svgs/Demo14pathTransform.vue';
 
 
 
